@@ -11,6 +11,8 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <form action="/j" method="post">
+    <input type="submit">
+  </form>
   </body>
 </html>
